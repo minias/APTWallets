@@ -16,6 +16,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+build/
+bin/
 
 # Go workspace file
 go.work
@@ -23,3 +25,6 @@ go.work.sum
 
 # env file
 .env
+
+# MacOs
+.DS_STORE
